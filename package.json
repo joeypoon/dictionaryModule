@@ -3,6 +3,16 @@
   "version": "1.0.0",
   "description": "Just a dictionary",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:joeypoon/dictionaryModule.git"
+  },
+  "keywords": [
+    "dictionary"
+  ],
   "author": "Joey F. Poon <joey@joeypoon.com> (http://joeypoon.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joeypoon/dictionaryModule/issues"
+  }
 }
