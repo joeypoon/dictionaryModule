@@ -1,0 +1,8 @@
+{
+  "name": "dictionary",
+  "version": "1.0.0",
+  "description": "Just a dictionary",
+  "main": "index.js",
+  "author": "Joey F. Poon <joey@joeypoon.com> (http://joeypoon.com)",
+  "license": "MIT"
+}
